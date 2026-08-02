@@ -7,7 +7,10 @@ The code in this toolbox implements "Enhancing Unsupervised Feature Selection vi
 
 This project is implemented in MATLAB.
 * Place the testing datasets in the data folder.
-* Execute demo.m directly to reproduce the experimental results.
+* Directly run demo.m to reproduce experimental results.
+
+### equirement
+STOP is a toolbox for solving optimization problems with orthogonality constraints, which can be downloaded from https://lsec.cc.ac.cn/~liuxin/code.html.
 
 
 ### Citation
