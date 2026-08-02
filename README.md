@@ -1,6 +1,7 @@
 # DSCOFS
 
 The code in this toolbox implements "Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization" by <i>X. Li, H. Chen, A. Yang, X. Xiu</i>.
+
 ![alt text](./framework.png)
 
 ### Testing
