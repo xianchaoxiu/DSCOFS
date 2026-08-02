@@ -6,7 +6,7 @@ The code in this toolbox implements "Enhancing Unsupervised Feature Selection vi
 ### Testing
 
 This project is implemented in MATLAB.
-* Place all datasets in the data folder.
+* Place the testing datasets in the data folder.
 * Execute demo.m directly to reproduce the experimental results.
 
 
