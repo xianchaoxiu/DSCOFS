@@ -13,7 +13,7 @@ This project is implemented in MATLAB.
 ### Requirement
 STOP is a toolbox for solving optimization problems with orthogonality constraints, which can be downloaded from https://lsec.cc.ac.cn/~liuxin/code.html.
 
-### Datasets
+### Dataset
 *  https://github.com/milaan9/Clustering-Datasets/
 *  https://jundongl.github.io/scikit-feature/datasets.html
   
